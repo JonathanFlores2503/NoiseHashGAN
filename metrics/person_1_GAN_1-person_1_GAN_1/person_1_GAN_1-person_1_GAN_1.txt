@@ -1,0 +1,12 @@
+Raw data of image: person_1_GAN_1.png
+Width: 374 Length: 380 Number of channels: 3
+Raw data of image: person_1_GAN_1.png
+Width: 374 Length: 380 Number of channels: 3
+The images have the same raw values
+The pixel values of the images are the same
+The histograms of the green channel are the same
+The histograms of the blue channel are the same
+The histograms of the red channel are the same
+The histograms of the grayscale images are the same
+The SSIM value of person_1_GAN_1.png to person_1_GAN_1.png is: 1.00000
+The SSIM value of person_1_GAN_1.png to person_1_GAN_1.png is: 1.00000
